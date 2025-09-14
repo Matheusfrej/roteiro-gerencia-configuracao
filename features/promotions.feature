@@ -5,3 +5,5 @@ cenário 2.
 cenário de falha 1.
 
 cenário de falha 2.
+
+cenário 3.
