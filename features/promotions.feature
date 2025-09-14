@@ -10,3 +10,4 @@ Adiciona then que faltou.
 cenário 3.
 
 cenário 4.
+ajuste no cenário 4.
