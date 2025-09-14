@@ -17,3 +17,6 @@ ajuste no cenário 4.
 cenário 5.
 
 cenário 6.
+
+cenário 7.
+adiciona then.
