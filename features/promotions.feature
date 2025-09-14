@@ -15,3 +15,5 @@ ajuste no cenário 4.
 
 
 cenário 5.
+
+cenário 6.
